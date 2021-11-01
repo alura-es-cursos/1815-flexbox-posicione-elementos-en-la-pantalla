@@ -29,9 +29,11 @@
 	display: flex;
 }
 
-.rodapePrincipal-navMap-list {
+.contenidoPrincipal-cursos {
 	display: flex;
-	flex-direction: column;
-	height: 250px;
-	flex-wrap: wrap;	
+	flex-wrap: wrap;
+}
+
+.contenidoPrincipal-cursos-link {
+	width: 23%;
 }
